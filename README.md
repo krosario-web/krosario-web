@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @krosario-web
+- 👀 I’m interested in any geospatial data presentation and analysis, with spetial attention to hydrometheorological data
+- 🌱 I’m currently learning how to create interactive maps in QGis and how to publisher then in a web
+- 💞️ I’m looking to collaborate on flood, drougth, hazards and risk analysis and his use to design economical and social strategies to prevent disasters
+- 📫 How to reach me? through delrosariokatia25@gmail.com
