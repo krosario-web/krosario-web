@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning how to create interactive maps in QGis and how to publisher its in a web
 - 💞️ I’m looking to collaborate on flood, drougth, hazards and risk analysis and its use to design economical and social strategies to prevent disasters
 - 📫 How to reach me? through delrosariokatia25@gmail.com
+- My mother language is spanish and I have good level in english.
